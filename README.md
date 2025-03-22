@@ -16,7 +16,7 @@
 
 |         Name          |           Course            |                      GitHub Username                     |
 |:---------------------:|:---------------------------:|:--------------------------------------------------------:|
-| Michael Makarenko     | Integrated Computer Science | [Zugidor][Zugidor]                                       |
+| Michael Makarenko     | Integrated Computer Science | [makarenm][makarenm]                                     |
 | Adam Bewick Mulvihill | Integrated Computer Science | [A-Mulvihill][A-Mulvihill]                               |
 | Prathamesh Sai        | Integrated Computer Science | [saisankp][saisankp]                                     |
 | Daniel Ilyin          | Integrated Computer Science | [danieli1245][danieli1245]                               |
